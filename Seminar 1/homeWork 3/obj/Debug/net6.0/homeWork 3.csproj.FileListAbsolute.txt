@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\bin\Debug\net6.0\homeWork 3.exe
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\bin\Debug\net6.0\homeWork 3.deps.json
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\bin\Debug\net6.0\homeWork 3.runtimeconfig.json
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\bin\Debug\net6.0\homeWork 3.dll
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\bin\Debug\net6.0\homeWork 3.pdb
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.dll
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\refint\homeWork 3.dll
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.pdb
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\homeWork 3.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Рабочий стол\Учеба\C#\C#_EducationGB\Seminar 1\homeWork 3\obj\Debug\net6.0\ref\homeWork 3.dll
