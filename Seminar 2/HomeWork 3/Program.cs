@@ -1,18 +1,26 @@
-﻿Console.WriteLine("Введите число от 1 до 7 для вывода выходного дня недели");
-
-int number = Convert.ToInt32(Console.ReadLine());
-
-if (number < 1 || number > 7)
+﻿void CheckPalindromicNumber(int number)
 {
-    System.Console.WriteLine($"{number} это число не является днём недели");
+    if (number >= 10000)
+    {
+        int division1 = number / 10000;
+        int remainder1 = number % 10;
+ 
+            if (division1 == remainder1)
+            {
+                number = number / 10;
+                int division2 = (number / 100) % 10;
+                int remainder2 = number % 10;
+                if (division2 == remainder2)
+                    Console.WriteLine("Да");
+            }
+            else 
+            Console.WriteLine("Нет");
+            
+    }
+    else
+    Console.WriteLine("Некорректное число!");
 }
-
-else if (number <= 5)
-{
-    System.Console.WriteLine($"{number} это число является будним днём недели");
-}
-
-else
-{
-    System.Console.WriteLine($"{number} это число является выходным днём недели");
-}
+ 
+Console.WriteLine("Введите пятизначное число:");
+int number = int.Parse(Console.ReadLine()!);
+CheckPalindromicNumber(number);
